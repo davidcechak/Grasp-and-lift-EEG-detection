@@ -4,6 +4,8 @@ This project compares various machine-learning models in terms of viability for 
 
 Full documentation is attached as pdf file.
 
-Running code: https://www.kaggle.com/vlastimilm/ui-project
+Running code:
+* RNN and logistic regression https://www.kaggle.com/vlastimilm/ui-project
+* CNN https://www.kaggle.com/yeahman/main-grasp
 
 Data download: https://www.kaggle.com/c/grasp-and-lift-eeg-detection/data
